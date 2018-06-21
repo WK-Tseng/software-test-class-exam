@@ -9,7 +9,6 @@ exam: main.cpp
 
 test:
 	echo "abc" | ./exam
-	echo "swt" | ./exam
 
 gcov:
 	gcov main.cpp
